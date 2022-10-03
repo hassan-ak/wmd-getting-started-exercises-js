@@ -8,7 +8,7 @@ This repository is based on 45 JavaScript exercises given at [Getting Started Ex
 
 Use any of the following methods to navigate through this repo
 
-1. Visit [Web 3.0 and Metaverse Development (JS Exercises)](), all exercises titles are listed in a table. Every exercise page contains problem statement, snaps of JS code, terminal output and browser console output. You can also view the output in browser conosle.
+1. Visit [Web 3.0 and Metaverse Development (JS Exercises)](http://js-exercises-wmd-hassan.surge.sh), all exercises titles are listed in a table. Every exercise page contains problem statement, snaps of JS code, terminal output and browser console output. You can also view the output in browser conosle.
 2. Every exercise is solved in different folder. Each folder contains three files
 
 - JS file contains the code which can be executed in the terminal buy using following command
